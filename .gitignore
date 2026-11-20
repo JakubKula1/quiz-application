@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Production build
+client/build/
+
+# Logs
+npm-debug.log*
+
+# Editor settings
+.vscode/
